@@ -13,8 +13,10 @@ I spend some of my time working through CTF challenges, home lab exercises, and 
 
 
 ## Focus Areas
-- **Detection engineering**: Microsoft Sentinel, KQL...
+- **Detection engineering**: Microsoft Sentinel, KQL, Splunk, SPL
 - **Security operations**: Triage workflows, SIEM
+- **OSINT**: theHarvester, Google Dorking, Pastebin analysis, OSINT Framework, social media investigation
+
 
 <!--
 **Frogohips/Frogohips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
