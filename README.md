@@ -1,5 +1,5 @@
 
-![My Skills](https://skillicons.dev/icons?i=python,kali,windows,bash,linux,jira)
+![My Skills](https://skillicons.dev/icons?i=python,kali,windows,bash,linux)
 
 # Hello World, I'm Ethan.
 
