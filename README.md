@@ -1,7 +1,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=python,kali,windows,bash,linux)
 
-# Hello World, I'm Ethan.
+# Hello World, I'm E.
 
 **Cybersecurity analyst | Offensive security | Detection engineering | Security automation**
 
