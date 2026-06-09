@@ -1,4 +1,15 @@
-## Hi there 👋
+# Hello World, I'm Ethan.
+
+**Cybersecurity analyst | Offensive security | Detection engineering | Security automation**
+
+## whoami
+Building practical security tooling skills and detection-driven workflows.
+
+I write cybersecurity projects around...
+
+## Focus Areas
+- **Detection engineering**: Microsoft Sentinel, KQL...
+- **Security operations**: Triage workflows...
 
 <!--
 **Frogohips/Frogohips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
