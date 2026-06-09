@@ -1,4 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FrogohipsE&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Frogohips&show_icons=true&theme=dark)
 ![My Skills](https://skillicons.dev/icons?i=python,kali,splunk,bash,linux)
 
 # Hello World, I'm Ethan.
