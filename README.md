@@ -1,4 +1,4 @@
-![My Skills](https://skillicons.dev/icons?i=python,ts,react,rust,bash,linux)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=python,kali,splunk,rust,bash,linux)](https://skillicons.dev)
 
 # Hello World, I'm Ethan.
 
