@@ -14,7 +14,7 @@ I spend some of my time working through CTF challenges, home lab exercises, and 
 
 ## Focus Areas
 - **Detection engineering**: Microsoft Sentinel, KQL, Splunk, SPL
-- **Security operations**: Triage workflows, SIEM
+- **Security operations**: Triage workflows, SIEM, Alert investigation
 - **OSINT**: theHarvester, Google Dorking, Pastebin analysis, OSINT Framework, social media investigation
 
 
