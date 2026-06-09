@@ -6,13 +6,15 @@
 **Cybersecurity analyst | Offensive security | Detection engineering | Security automation**
 
 ## Bio
-Building practical security tooling skills and detection-driven workflows.
+Cyber Security and Networks graduate with a passion for all things blue team — though I make sure to keep my offensive skills sharp too.
 
-I write cybersecurity projects around...
+I spend some of my time working through CTF challenges, home lab exercises, and penetration testing on intentionally vulnerable systems, and I try to document everything I learn along the way. You'll find write-ups here covering my thought process, the vulnerabilities I uncovered, and how they could be remediated.
+
+
 
 ## Focus Areas
 - **Detection engineering**: Microsoft Sentinel, KQL...
-- **Security operations**: Triage workflows...
+- **Security operations**: Triage workflows, SIEM
 
 <!--
 **Frogohips/Frogohips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
