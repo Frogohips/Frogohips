@@ -5,7 +5,7 @@
 
 **Cybersecurity analyst | Offensive security | Detection engineering | Security automation**
 
-## whoami
+## Bio
 Building practical security tooling skills and detection-driven workflows.
 
 I write cybersecurity projects around...
