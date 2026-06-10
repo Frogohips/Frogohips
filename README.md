@@ -1,9 +1,9 @@
 
 ![My Skills](https://skillicons.dev/icons?i=python,kali,windows,bash,linux,github,docker,photoshop)
 
-<h1 align="center">Material Bread</h1>
+<h1 align="center">Hello World I'm E</h1>
 
-**Cybersecurity analyst | Offensive security | Detection engineering | Security automation**
+<h2 align="center">**Cybersecurity analyst | Offensive security | Detection engineering | Security automation**</h2>
 
 ## Bio
 Cyber Security and Networks graduate with a passion for all things blue team — though I make sure to keep my offensive skills sharp too.
