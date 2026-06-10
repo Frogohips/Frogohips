@@ -3,7 +3,7 @@
 
 <h1 align="center">Hello World I'm E</h1>
 
-<h6 align="center">**Cybersecurity analyst | Offensive security | Detection engineering | Security automation**</h6>
+<h6 align="center">Cybersecurity analyst | Offensive security | Detection engineering | Security automation</h6>
 
 ## Bio
 Cyber Security and Networks graduate with a passion for all things blue team — though I make sure to keep my offensive skills sharp too.
